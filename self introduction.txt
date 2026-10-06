@@ -1,0 +1,23 @@
+  Good morning sir
+             
+        my name Jagadeesh ragolu. i am from jangareddygudem,eluru district. but iam currently staying in kphb Hyderabad.
+
+        coming to my education details i completed my graduation, Bsc. in computer science with a cgpa 0f 8.20
+           
+        Recently i complted my post graduation, Master of computer applications(MCA),from srk institute of technology Vijayawada,with a cgpa 7.97
+         
+        Coming to my technical skills, I have basic knowledge of Python, HTML, CSS,  and SQL database. I have learned the fundamentals
+        programming and web development, and I am currently improving my technical skills through practice and projects.
+
+        Coming to my academic project, I developed a Multiple Facial Attendance Management System using Image Processing. 
+        This project is used to identify multiple faces and automatically record attendance.
+
+        Coming to my strengths, I am a hardworking, and a good team player. 
+             I am adaptable to new environments and always interested in learning new technologies.
+
+        my goal is to become skilled software engineer in reputed software company
+       
+        Coming to my certifications, I have completed Python Fundamentals certification and HTML & CSS certification. 
+         These courses helped me improve my basic programming and web development skills.
+        
+        Thankyou sir that's  all about me.
